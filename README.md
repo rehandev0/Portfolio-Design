@@ -3,8 +3,7 @@
 A modern, responsive, and clean UI/UX focused portfolio website built to showcase my design thinking, user experience skills, and front-end development projects.
 
 ---
-
-
+![Portfolio Screenshot](https://i.postimg.cc/jdKP6WTj/Portfolio-thumbnail.jpg)
 ---
 
 ## 📌 About The Project
